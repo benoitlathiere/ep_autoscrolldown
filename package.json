@@ -1,0 +1,23 @@
+{
+  "name": "ep_autoscrolldown",
+  "version": "0.0.10",
+  "keywords": [
+    "scrolling",
+    "etherpad",
+    "lecture",
+    "deaf",
+    "student"
+  ],
+  "description": "This Etherpad module auto-scroll down the pad when the content is modified.\n\nThis module was part of an academic project for courses accessibility from Paris 8 University/THIM Lab.",
+  "author": {
+	  "name": "Benoit Lathiere",
+      "email": "benoit.lathiere@gmail.com"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+	    "email": "benoit.lathiere@gmail.com"
+  },
+  "license": "MIT"
+}
